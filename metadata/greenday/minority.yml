@@ -1,0 +1,17 @@
+album_name: Warning
+artist: Green Day
+diff:
+  band: 4
+  bass: 3
+  drum: 5
+  guitar: 4
+  keys: 2
+  pro_drum: 5
+  pro_keys: 2
+  vocals: 2
+genre: Rock
+name: Minority
+shortname: minority
+song_length: 174090
+vocal_parts: 3
+year_released: 2000

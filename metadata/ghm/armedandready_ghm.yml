@@ -1,0 +1,17 @@
+album_name: The Michael Schenker Group
+artist: Michael Schenker Group
+diff:
+  band: 4
+  bass: 3
+  drum: 4
+  guitar: 5
+  keys: 5
+  pro_drum: 4
+  pro_keys: 5
+  vocals: 4
+genre: Metal
+name: Armed and Ready
+shortname: armedandready_ghm
+song_length: 263102
+vocal_parts: 3
+year_released: 1980

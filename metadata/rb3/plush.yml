@@ -1,0 +1,17 @@
+album_name: Core
+artist: Stone Temple Pilots
+diff:
+  band: 3
+  bass: 3
+  drum: 3
+  guitar: 4
+  pro_bass: 5
+  pro_drum: 3
+  pro_guitar: 5
+  vocals: 3
+genre: Grunge
+name: Plush
+shortname: plush
+song_length: 312801
+vocal_parts: 1
+year_released: 1992

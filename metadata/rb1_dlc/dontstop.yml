@@ -1,0 +1,17 @@
+album_name: Rumours
+artist: Fleetwood Mac
+diff:
+  band: 2
+  bass: 4
+  drum: 4
+  guitar: 2
+  keys: 5
+  pro_drum: 4
+  pro_keys: 5
+  vocals: 5
+genre: Classic Rock
+name: Don't Stop
+shortname: dontstop
+song_length: 195000
+vocal_parts: 2
+year_released: 1977

@@ -1,0 +1,17 @@
+album_name: ('album_track_number' 10)
+artist: ('master' 1)
+diff:
+  band: 3
+  bass: 3
+  drum: 2
+  guitar: 3
+  keys: 3
+  pro_drum: 2
+  pro_keys: 3
+  vocals: 4
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_sunkingv2
+song_length: 160933
+vocal_parts: 3
+year_released: 1969

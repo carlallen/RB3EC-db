@@ -1,0 +1,17 @@
+album_name: New Jersey
+artist: Bon Jovi
+diff:
+  band: 2
+  bass: 3
+  drum: 2
+  guitar: 5
+  keys: 3
+  pro_drum: 2
+  pro_keys: 3
+  vocals: 3
+genre: Rock
+name: I'll Be There for You
+shortname: illbethereforyou
+song_length: 345205
+vocal_parts: 2
+year_released: 1988

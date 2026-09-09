@@ -1,0 +1,19 @@
+album_name: Pyromania
+artist: Def Leppard
+diff:
+  band: 3
+  bass: 5
+  drum: 3
+  guitar: 5
+  keys: 3
+  pro_bass: 3
+  pro_drum: 3
+  pro_guitar: 5
+  pro_keys: 3
+  vocals: 7
+genre: Glam
+name: Foolin'
+shortname: foolin
+song_length: 274871
+vocal_parts: 3
+year_released: 1983

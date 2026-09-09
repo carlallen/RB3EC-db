@@ -1,0 +1,17 @@
+album_name: 'Ring of Fire: The Best of Johnny Cash'
+artist: Johnny Cash
+diff:
+  band: 5
+  bass: 2
+  drum: 5
+  guitar: 2
+  keys: 7
+  pro_drum: 5
+  pro_keys: 5
+  vocals: 3
+genre: Country
+name: Ring of Fire (RB3 version)
+shortname: ringoffire3
+song_length: 165161
+vocal_parts: 1
+year_released: 1963

@@ -1,0 +1,19 @@
+album_name: The Game
+artist: Queen
+diff:
+  band: 4
+  bass: 3
+  drum: 4
+  guitar: 4
+  keys: 3
+  pro_bass: 3
+  pro_drum: 4
+  pro_guitar: 3
+  pro_keys: 4
+  vocals: 5
+genre: Classic Rock
+name: Play the Game
+shortname: playthegame
+song_length: 210884
+vocal_parts: 3
+year_released: 1980

@@ -1,0 +1,17 @@
+album_name: Don't Shoot Me I'm Only the Piano Player
+artist: Elton John
+diff:
+  band: 1
+  bass: 2
+  drum: 3
+  guitar: 3
+  keys: 4
+  pro_drum: 3
+  pro_keys: 5
+  vocals: 4
+genre: Pop-Rock
+name: Crocodile Rock
+shortname: crocodilerock
+song_length: 222727
+vocal_parts: 2
+year_released: 1973

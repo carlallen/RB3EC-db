@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 1)
+artist: ('master' 1)
+diff:
+  band: 4
+  bass: 3
+  drum: 5
+  guitar: 4
+  pro_drum: 5
+  vocals: 5
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_sgtpepperlittlehelpv2
+song_length: 287185
+vocal_parts: 3
+year_released: 1967

@@ -1,0 +1,17 @@
+album_name: Boston
+artist: Boston
+diff:
+  band: 3
+  bass: 4
+  drum: 5
+  guitar: 4
+  keys: 4
+  pro_drum: 5
+  pro_keys: 5
+  vocals: 4
+genre: Classic Rock
+name: Rock and Roll Band
+shortname: rockandrollband
+song_length: 184090
+vocal_parts: 3
+year_released: 1976

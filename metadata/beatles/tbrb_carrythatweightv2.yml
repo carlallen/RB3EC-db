@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 15)
+artist: ('master' 1)
+diff:
+  band: 3
+  bass: 2
+  drum: 2
+  guitar: 4
+  pro_drum: 2
+  vocals: 3
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_carrythatweightv2
+song_length: 106153
+vocal_parts: 3
+year_released: 1969

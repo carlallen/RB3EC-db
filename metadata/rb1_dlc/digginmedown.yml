@@ -1,0 +1,17 @@
+album_name: Scream
+artist: Ozzy Osbourne
+diff:
+  band: 7
+  bass: 5
+  drum: 6
+  guitar: 6
+  keys: 1
+  pro_drum: 6
+  pro_keys: 1
+  vocals: 4
+genre: Metal
+name: Diggin' Me Down
+shortname: digginmedown
+song_length: 365454
+vocal_parts: 3
+year_released: 2010

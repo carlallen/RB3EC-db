@@ -1,0 +1,15 @@
+album_name: Live at Donington
+artist: AC/DC
+diff:
+  band: 5
+  bass: 2
+  drum: 4
+  guitar: 6
+  pro_drum: 4
+  vocals: 2
+genre: hardrock
+name: Dirty Deeds Done Dirt Cheap (Live)
+shortname: dirtydeeds_live
+song_length: 280909
+vocal_parts: 3
+year_released: 1992

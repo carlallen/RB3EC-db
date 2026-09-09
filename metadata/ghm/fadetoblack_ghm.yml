@@ -1,0 +1,17 @@
+album_name: Ride the Lightning
+artist: Metallica
+diff:
+  band: 4
+  bass: 3
+  drum: 3
+  guitar: 6
+  keys: 1
+  pro_drum: 3
+  pro_keys: 2
+  vocals: 4
+genre: Metal
+name: Fade to Black (GHM version)
+shortname: fadetoblack_ghm
+song_length: 423810
+vocal_parts: 1
+year_released: 1984

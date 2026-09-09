@@ -1,0 +1,19 @@
+album_name: Turnstiles
+artist: Billy Joel
+diff:
+  band: 6
+  bass: 4
+  drum: 6
+  guitar: 4
+  keys: 7
+  pro_bass: 3
+  pro_drum: 6
+  pro_guitar: 3
+  pro_keys: 7
+  vocals: 4
+genre: Classic Rock
+name: Prelude/Angry Young Man
+shortname: angryyoungman
+song_length: 319240
+vocal_parts: 2
+year_released: 1976

@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 11)
+artist: ('master' 1)
+diff:
+  band: 5
+  bass: 4
+  drum: 2
+  guitar: 6
+  pro_drum: 2
+  vocals: 5
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_allyouneedislovev2
+song_length: 224542
+vocal_parts: 3
+year_released: 1967

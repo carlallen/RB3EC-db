@@ -1,0 +1,19 @@
+album_name: The Soft Parade
+artist: The Doors
+diff:
+  band: 7
+  bass: 3
+  drum: 6
+  guitar: 4
+  keys: 7
+  pro_bass: 3
+  pro_drum: 6
+  pro_guitar: 2
+  pro_keys: 7
+  vocals: 3
+genre: psychadelic
+name: Touch Me
+shortname: touchme
+song_length: 194804
+vocal_parts: 1
+year_released: 1969

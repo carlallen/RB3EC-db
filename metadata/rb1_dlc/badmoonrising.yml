@@ -1,0 +1,17 @@
+album_name: Green River
+artist: Creedence Clearwater Revival
+diff:
+  band: 2
+  bass: 2
+  drum: 2
+  guitar: 4
+  pro_bass: 1
+  pro_drum: 2
+  pro_guitar: 3
+  vocals: 3
+genre: Southern Rock
+name: Bad Moon Rising
+shortname: badmoonrising
+song_length: 143512
+vocal_parts: 1
+year_released: 1969

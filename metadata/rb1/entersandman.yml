@@ -1,0 +1,17 @@
+album_name: Metallica
+artist: Metallica
+diff:
+  band: 7
+  bass: 6
+  drum: 6
+  guitar: 6
+  pro_bass: 3
+  pro_drum: 6
+  pro_guitar: 6
+  vocals: 4
+genre: Metal
+name: Enter Sandman
+shortname: entersandman
+song_length: 333388
+vocal_parts: 3
+year_released: 1991

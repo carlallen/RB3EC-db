@@ -1,0 +1,15 @@
+album_name: St. Anger
+artist: Metallica
+diff:
+  band: 5
+  bass: 4
+  drum: 6
+  guitar: 6
+  pro_drum: 6
+  vocals: 4
+genre: Metal
+name: Frantic
+shortname: frantic_ghm
+song_length: 354342
+vocal_parts: 3
+year_released: 2003

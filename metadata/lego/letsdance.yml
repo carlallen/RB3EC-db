@@ -1,0 +1,17 @@
+album_name: Let's Dance
+artist: David Bowie
+diff:
+  band: 1
+  bass: 2
+  drum: 3
+  guitar: 2
+  keys: 2
+  pro_drum: 3
+  pro_keys: 2
+  vocals: 2
+genre: Glam
+name: Let's Dance
+shortname: letsdance
+song_length: 295000
+vocal_parts: 3
+year_released: 1983

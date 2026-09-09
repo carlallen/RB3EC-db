@@ -1,0 +1,17 @@
+album_name: null
+artist: ('master' 1)
+diff:
+  band: 5
+  bass: 4
+  drum: 3
+  guitar: 5
+  keys: 6
+  pro_drum: 3
+  pro_keys: 6
+  vocals: 5
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_dontletmedownv4
+song_length: 222073
+vocal_parts: 3
+year_released: 1969

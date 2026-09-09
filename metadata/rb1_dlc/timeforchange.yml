@@ -1,0 +1,17 @@
+album_name: Dr. Feelgood
+artist: Mötley Crüe
+diff:
+  band: 1
+  bass: 2
+  drum: 2
+  guitar: 3
+  keys: 3
+  pro_drum: 2
+  pro_keys: 4
+  vocals: 1
+genre: Metal
+name: Time For Change
+shortname: timeforchange
+song_length: 306363
+vocal_parts: 3
+year_released: 1989

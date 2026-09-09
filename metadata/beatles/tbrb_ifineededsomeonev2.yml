@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 13)
+artist: ('master' 1)
+diff:
+  band: 1
+  bass: 4
+  drum: 3
+  guitar: 2
+  pro_drum: 3
+  vocals: 2
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_ifineededsomeonev2
+song_length: 146756
+vocal_parts: 3
+year_released: 1965

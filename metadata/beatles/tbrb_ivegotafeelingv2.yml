@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 8)
+artist: ('master' 1)
+diff:
+  band: 6
+  bass: 5
+  drum: 2
+  guitar: 6
+  pro_drum: 2
+  vocals: 7
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_ivegotafeelingv2
+song_length: 221736
+vocal_parts: 2
+year_released: 1970

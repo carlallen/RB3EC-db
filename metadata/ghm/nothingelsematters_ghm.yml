@@ -1,0 +1,17 @@
+album_name: Metallica
+artist: Metallica
+diff:
+  band: 3
+  bass: 2
+  drum: 4
+  guitar: 4
+  keys: 4
+  pro_drum: 4
+  pro_keys: 4
+  vocals: 3
+genre: Metal
+name: Nothing Else Matters (GHM version)
+shortname: nothingelsematters_ghm
+song_length: 389594
+vocal_parts: 2
+year_released: 1991

@@ -1,0 +1,17 @@
+album_name: Band on the Run
+artist: Paul McCartney & Wings
+diff:
+  band: 3
+  bass: 1
+  drum: 4
+  guitar: 2
+  keys: 3
+  pro_drum: 4
+  pro_keys: 3
+  vocals: 4
+genre: Classic Rock
+name: Jet
+shortname: jet_wtdlc
+song_length: 256126
+vocal_parts: 3
+year_released: 1973

@@ -1,0 +1,19 @@
+album_name: News of the World
+artist: Queen
+diff:
+  band: 2
+  bass: 2
+  drum: 1
+  guitar: 2
+  keys: 4
+  pro_bass: 3
+  pro_drum: 1
+  pro_guitar: 3
+  pro_keys: 6
+  vocals: 4
+genre: Classic Rock
+name: We Are the Champions (RB3 version)
+shortname: wearethechampions2
+song_length: 185158
+vocal_parts: 3
+year_released: 1977

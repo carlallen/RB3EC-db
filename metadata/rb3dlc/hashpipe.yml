@@ -1,0 +1,17 @@
+album_name: Weezer (The Green Album)
+artist: Weezer
+diff:
+  band: 3
+  bass: 4
+  drum: 4
+  guitar: 4
+  pro_bass: 2
+  pro_drum: 4
+  pro_guitar: 3
+  vocals: 3
+genre: Alternative
+name: Hash Pipe
+shortname: hashpipe
+song_length: 173719
+vocal_parts: 2
+year_released: 2001

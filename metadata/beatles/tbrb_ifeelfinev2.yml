@@ -1,0 +1,15 @@
+album_name: null
+artist: ('master' 1)
+diff:
+  band: 6
+  bass: 3
+  drum: 6
+  guitar: 6
+  pro_drum: 6
+  vocals: 5
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_ifeelfinev2
+song_length: 143436
+vocal_parts: 3
+year_released: 1964

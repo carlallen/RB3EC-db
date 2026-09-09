@@ -1,0 +1,17 @@
+album_name: Music from Big Pink
+artist: The Band
+diff:
+  band: 3
+  bass: 3
+  drum: 2
+  guitar: 3
+  keys: 4
+  pro_drum: 2
+  pro_keys: 4
+  vocals: 4
+genre: Classic Rock
+name: The Weight
+shortname: weightband_original
+song_length: 281651
+vocal_parts: 3
+year_released: 1968

@@ -1,0 +1,19 @@
+album_name: ('album_track_number' 17)
+artist: ('master' 1)
+diff:
+  band: 4
+  bass: 1
+  drum: 1
+  guitar: 6
+  keys: 1
+  pro_bass: 1
+  pro_drum: 1
+  pro_guitar: 6
+  pro_keys: 1
+  vocals: 6
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_hermajestyv2
+song_length: 33670
+vocal_parts: 1
+year_released: 1969

@@ -1,0 +1,15 @@
+album_name: The Colour and the Shape
+artist: Foo Fighters
+diff:
+  band: 1
+  bass: 2
+  drum: 3
+  guitar: 1
+  pro_drum: 3
+  vocals: 2
+genre: Alternative
+name: February Stars
+shortname: februarystars
+song_length: 295909
+vocal_parts: 3
+year_released: 1997

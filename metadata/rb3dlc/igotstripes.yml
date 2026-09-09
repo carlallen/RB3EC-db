@@ -1,0 +1,17 @@
+album_name: 'Classic Cash: Hall of Fame Series'
+artist: Johnny Cash
+diff:
+  band: 2
+  bass: 2
+  drum: 4
+  guitar: 4
+  keys: 3
+  pro_drum: 4
+  pro_keys: 3
+  vocals: 4
+genre: Country
+name: I Got Stripes
+shortname: igotstripes
+song_length: 125000
+vocal_parts: 3
+year_released: 1959

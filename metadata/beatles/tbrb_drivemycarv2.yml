@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 1)
+artist: ('master' 1)
+diff:
+  band: 4
+  bass: 4
+  drum: 2
+  guitar: 4
+  pro_drum: 2
+  vocals: 5
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_drivemycarv2
+song_length: 153082
+vocal_parts: 3
+year_released: 1965

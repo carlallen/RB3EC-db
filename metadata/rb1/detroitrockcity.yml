@@ -1,0 +1,19 @@
+album_name: Destroyer
+artist: KISS
+diff:
+  band: 7
+  bass: 3
+  drum: 6
+  guitar: 3
+  keys: 2
+  pro_bass: 4
+  pro_drum: 6
+  pro_guitar: 3
+  pro_keys: 2
+  vocals: 4
+genre: Classic Rock
+name: Detroit Rock City
+shortname: detroitrockcity
+song_length: 242085
+vocal_parts: 3
+year_released: 1976

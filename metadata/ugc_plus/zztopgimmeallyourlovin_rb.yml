@@ -1,0 +1,17 @@
+album_name: Eliminator
+artist: ZZ Top
+diff:
+  band: 2
+  bass: 1
+  drum: 2
+  guitar: 4
+  keys: 1
+  pro_drum: 2
+  pro_keys: 1
+  vocals: 3
+genre: Rock
+name: Gimme All Your Lovin'
+shortname: zztopgimmeallyourlovin_rb
+song_length: 247246
+vocal_parts: 3
+year_released: 1983

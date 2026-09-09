@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 5)
+artist: ('master' 1)
+diff:
+  band: 5
+  bass: 4
+  drum: 3
+  guitar: 6
+  pro_drum: 3
+  vocals: 5
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_octopusgardenv2
+song_length: 174900
+vocal_parts: 3
+year_released: 1969

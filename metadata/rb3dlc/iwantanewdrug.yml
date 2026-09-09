@@ -1,0 +1,19 @@
+album_name: Sports
+artist: Huey Lewis and the News
+diff:
+  band: 5
+  bass: 2
+  drum: 2
+  guitar: 5
+  keys: 6
+  pro_bass: 2
+  pro_drum: 2
+  pro_guitar: 6
+  pro_keys: 6
+  vocals: 5
+genre: Rock
+name: I Want a New Drug
+shortname: iwantanewdrug
+song_length: 314730
+vocal_parts: 2
+year_released: 1983

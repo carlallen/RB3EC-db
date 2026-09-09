@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 7)
+artist: ('master' 1)
+diff:
+  band: 3
+  bass: 3
+  drum: 1
+  guitar: 5
+  pro_drum: 1
+  vocals: 5
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_michellev2
+song_length: 176148
+vocal_parts: 3
+year_released: 1965

@@ -1,0 +1,19 @@
+album_name: London Calling
+artist: The Clash
+diff:
+  band: 2
+  bass: 4
+  drum: 4
+  guitar: 2
+  keys: 4
+  pro_bass: 2
+  pro_drum: 4
+  pro_guitar: 2
+  pro_keys: 5
+  vocals: 3
+genre: Punk
+name: The Card Cheat
+shortname: thecardcheat
+song_length: 234189
+vocal_parts: 1
+year_released: 1979

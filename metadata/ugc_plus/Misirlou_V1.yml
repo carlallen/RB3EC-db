@@ -1,0 +1,17 @@
+album_name: Surfers' Choice
+artist: Dick Dale and His Del-Tones
+diff:
+  band: 4
+  bass: 2
+  drum: 3
+  guitar: 6
+  keys: 5
+  pro_drum: 3
+  pro_keys: 5
+  vocals: 1
+genre: Rock
+name: Misirlou
+shortname: Misirlou_V1
+song_length: 131477
+vocal_parts: 1
+year_released: 1962

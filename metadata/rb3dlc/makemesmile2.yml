@@ -1,0 +1,19 @@
+album_name: Chicago II
+artist: Chicago
+diff:
+  band: 6
+  bass: 6
+  drum: 5
+  guitar: 6
+  keys: 4
+  pro_bass: 6
+  pro_drum: 5
+  pro_guitar: 7
+  pro_keys: 5
+  vocals: 5
+genre: Classic Rock
+name: Make Me Smile
+shortname: makemesmile2
+song_length: 270330
+vocal_parts: 3
+year_released: 1970

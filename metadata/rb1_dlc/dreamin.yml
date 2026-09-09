@@ -1,0 +1,17 @@
+album_name: Weezer (The Red Album)
+artist: Weezer
+diff:
+  band: 1
+  bass: 2
+  drum: 1
+  guitar: 2
+  keys: 1
+  pro_drum: 1
+  pro_keys: 1
+  vocals: 1
+genre: Alternative
+name: Dreamin'
+shortname: dreamin
+song_length: 311363
+vocal_parts: 3
+year_released: 2008

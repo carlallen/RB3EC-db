@@ -1,0 +1,17 @@
+album_name: 'Classic Cash: Hall of Fame Series'
+artist: Johnny Cash
+diff:
+  band: 3
+  bass: 2
+  drum: 4
+  guitar: 4
+  keys: 4
+  pro_drum: 4
+  pro_keys: 4
+  vocals: 3
+genre: Country
+name: Don't Take Your Guns to Town
+shortname: donttakeyourguns
+song_length: 186261
+vocal_parts: 1
+year_released: 1958

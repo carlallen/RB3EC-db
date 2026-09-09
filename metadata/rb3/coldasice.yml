@@ -1,0 +1,18 @@
+album_name: Foreigner
+artist: Foreigner
+diff:
+  band: 5
+  bass: 3
+  drum: 4
+  keys: 7
+  pro_bass: 2
+  pro_drum: 4
+  pro_guitar: 6
+  pro_keys: 6
+  vocals: 5
+genre: Classic Rock
+name: Cold as Ice
+shortname: coldasice
+song_length: 210240
+vocal_parts: 3
+year_released: 1977

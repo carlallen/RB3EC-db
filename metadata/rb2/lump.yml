@@ -1,0 +1,17 @@
+album_name: The Presidents of the United States of America
+artist: The Presidents of the United States of America
+diff:
+  band: 3
+  bass: 5
+  drum: 6
+  guitar: 2
+  pro_bass: 7
+  pro_drum: 6
+  pro_guitar: 6
+  vocals: 1
+genre: Grunge
+name: Lump
+shortname: lump
+song_length: 136818
+vocal_parts: 3
+year_released: 1995

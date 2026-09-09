@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 8)
+artist: ('master' 1)
+diff:
+  band: 6
+  bass: 4
+  drum: 7
+  guitar: 6
+  pro_drum: 7
+  vocals: 5
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_whatgoesonv2
+song_length: 171909
+vocal_parts: 3
+year_released: 1965

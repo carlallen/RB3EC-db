@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 1)
+artist: ('master' 1)
+diff:
+  band: 4
+  bass: 4
+  drum: 3
+  guitar: 2
+  pro_drum: 3
+  vocals: 5
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_cometogetherv2
+song_length: 261900
+vocal_parts: 2
+year_released: 1969

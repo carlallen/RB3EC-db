@@ -1,0 +1,19 @@
+album_name: ('album_track_number' 3)
+artist: ('master' 1)
+diff:
+  band: 4
+  bass: 5
+  drum: 4
+  guitar: 1
+  keys: 3
+  pro_bass: 5
+  pro_drum: 4
+  pro_guitar: 1
+  pro_keys: 3
+  vocals: 6
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_youwontseemev3
+song_length: 208963
+vocal_parts: 3
+year_released: 1965

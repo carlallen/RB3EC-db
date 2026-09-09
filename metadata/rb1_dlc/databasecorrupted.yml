@@ -1,0 +1,15 @@
+album_name: Action/Adventure
+artist: Dealership
+diff:
+  band: 2
+  bass: 2
+  drum: 5
+  guitar: 1
+  pro_drum: 5
+  vocals: 2
+genre: Indie Rock
+name: Database Corrupted
+shortname: databasecorrupted
+song_length: 241818
+vocal_parts: 2
+year_released: 2004

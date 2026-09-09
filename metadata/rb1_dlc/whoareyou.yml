@@ -1,0 +1,17 @@
+album_name: Who Are You
+artist: The Who
+diff:
+  band: 5
+  bass: 2
+  drum: 6
+  guitar: 4
+  keys: 7
+  pro_drum: 6
+  pro_keys: 7
+  vocals: 1
+genre: hardrock
+name: Who Are You
+shortname: whoareyou
+song_length: 315000
+vocal_parts: 3
+year_released: 1978

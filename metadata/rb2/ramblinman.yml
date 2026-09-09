@@ -1,0 +1,19 @@
+album_name: Brothers and Sisters
+artist: The Allman Brothers Band
+diff:
+  band: 7
+  bass: 7
+  drum: 6
+  guitar: 7
+  keys: 7
+  pro_bass: 6
+  pro_drum: 6
+  pro_guitar: 7
+  pro_keys: 7
+  vocals: 6
+genre: Southern Rock
+name: Ramblin' Man
+shortname: ramblinman
+song_length: 320454
+vocal_parts: 3
+year_released: 1973

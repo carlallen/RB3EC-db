@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 12)
+artist: ('master' 1)
+diff:
+  band: 4
+  bass: 3
+  drum: 3
+  guitar: 4
+  pro_drum: 3
+  vocals: 3
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_polythenepamv2
+song_length: 88208
+vocal_parts: 3
+year_released: 1969

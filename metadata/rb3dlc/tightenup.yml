@@ -1,0 +1,19 @@
+album_name: Brothers
+artist: The Black Keys
+diff:
+  band: 2
+  bass: 2
+  drum: 4
+  guitar: 2
+  keys: 2
+  pro_bass: 2
+  pro_drum: 4
+  pro_guitar: 2
+  pro_keys: 2
+  vocals: 5
+genre: Rock
+name: Tighten Up
+shortname: tightenup
+song_length: 216205
+vocal_parts: 1
+year_released: 2010

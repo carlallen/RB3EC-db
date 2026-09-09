@@ -1,0 +1,17 @@
+album_name: The Bronx
+artist: The Bronx
+diff:
+  band: 5
+  bass: 5
+  drum: 6
+  guitar: 6
+  pro_bass: 5
+  pro_drum: 6
+  pro_guitar: 3
+  vocals: 2
+genre: Punk
+name: False Alarm
+shortname: falsealarm
+song_length: 136972
+vocal_parts: 1
+year_released: 2003

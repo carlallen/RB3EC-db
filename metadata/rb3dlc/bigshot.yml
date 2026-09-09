@@ -1,0 +1,19 @@
+album_name: 52nd Street
+artist: Billy Joel
+diff:
+  band: 2
+  bass: 3
+  drum: 3
+  guitar: 3
+  keys: 4
+  pro_bass: 2
+  pro_drum: 3
+  pro_guitar: 3
+  pro_keys: 4
+  vocals: 4
+genre: Classic Rock
+name: Big Shot
+shortname: bigshot
+song_length: 261701
+vocal_parts: 2
+year_released: 1978

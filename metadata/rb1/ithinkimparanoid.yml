@@ -1,0 +1,19 @@
+album_name: Version 2.0
+artist: Garbage
+diff:
+  band: 1
+  bass: 2
+  drum: 1
+  guitar: 2
+  keys: 2
+  pro_bass: 1
+  pro_drum: 1
+  pro_guitar: 2
+  pro_keys: 2
+  vocals: 1
+genre: Alternative
+name: I Think I'm Paranoid
+shortname: ithinkimparanoid
+song_length: 221044
+vocal_parts: 2
+year_released: 1998

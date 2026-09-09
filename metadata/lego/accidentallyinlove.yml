@@ -1,0 +1,17 @@
+album_name: 'Shrek 2: Motion Picture Soundtrack'
+artist: Counting Crows
+diff:
+  band: 2
+  bass: 2
+  drum: 3
+  guitar: 3
+  keys: 4
+  pro_drum: 3
+  pro_keys: 4
+  vocals: 3
+genre: Rock
+name: Accidentally in Love
+shortname: accidentallyinlove
+song_length: 195000
+vocal_parts: 3
+year_released: 2004

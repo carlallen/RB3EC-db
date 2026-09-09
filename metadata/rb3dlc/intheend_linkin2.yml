@@ -1,0 +1,19 @@
+album_name: Hybrid Theory
+artist: Linkin Park
+diff:
+  band: 2
+  bass: 3
+  drum: 5
+  guitar: 2
+  keys: 2
+  pro_bass: 3
+  pro_drum: 5
+  pro_guitar: 1
+  pro_keys: 2
+  vocals: 3
+genre: Nu-Metal
+name: In the End
+shortname: intheend_linkin2
+song_length: 219479
+vocal_parts: 2
+year_released: 2000

@@ -1,0 +1,17 @@
+album_name: Buffalo Springfield
+artist: Buffalo Springfield
+diff:
+  band: 2
+  bass: 2
+  drum: 2
+  guitar: 3
+  pro_bass: 5
+  pro_drum: 2
+  pro_guitar: 2
+  vocals: 4
+genre: Classic Rock
+name: For What It's Worth
+shortname: forwhatitsworth
+song_length: 174287
+vocal_parts: 3
+year_released: 1967

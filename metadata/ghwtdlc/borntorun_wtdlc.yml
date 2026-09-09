@@ -1,0 +1,17 @@
+album_name: Born to Run
+artist: Bruce Springsteen
+diff:
+  band: 5
+  bass: 4
+  drum: 7
+  guitar: 2
+  keys: 6
+  pro_drum: 7
+  pro_keys: 6
+  vocals: 5
+genre: Classic Rock
+name: Born to Run (WTDLC version)
+shortname: borntorun_wtdlc
+song_length: 274691
+vocal_parts: 1
+year_released: 1975

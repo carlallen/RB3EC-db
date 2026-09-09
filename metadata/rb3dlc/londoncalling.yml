@@ -1,0 +1,17 @@
+album_name: London Calling
+artist: The Clash
+diff:
+  band: 3
+  bass: 3
+  drum: 5
+  guitar: 3
+  pro_bass: 5
+  pro_drum: 5
+  pro_guitar: 3
+  vocals: 2
+genre: Punk
+name: London Calling
+shortname: londoncalling
+song_length: 202245
+vocal_parts: 2
+year_released: 1979

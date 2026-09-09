@@ -1,0 +1,19 @@
+album_name: 'Footloose: Original Soundtrack of the Paramount Motion Picture'
+artist: Kenny Loggins
+diff:
+  band: 5
+  bass: 6
+  drum: 4
+  guitar: 5
+  keys: 3
+  pro_bass: 6
+  pro_drum: 4
+  pro_guitar: 5
+  pro_keys: 3
+  vocals: 6
+genre: Pop-Rock
+name: Footloose
+shortname: footloose
+song_length: 221883
+vocal_parts: 3
+year_released: 1984

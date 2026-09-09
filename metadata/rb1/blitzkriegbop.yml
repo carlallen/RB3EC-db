@@ -1,0 +1,17 @@
+album_name: Ramones
+artist: Ramones
+diff:
+  band: 2
+  bass: 2
+  drum: 4
+  guitar: 2
+  pro_bass: 1
+  pro_drum: 4
+  pro_guitar: 1
+  vocals: 1
+genre: Punk
+name: Blitzkrieg Bop
+shortname: blitzkriegbop
+song_length: 136844
+vocal_parts: 3
+year_released: 1976

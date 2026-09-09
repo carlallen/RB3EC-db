@@ -1,0 +1,19 @@
+album_name: We're An American Band
+artist: Grand Funk Railroad
+diff:
+  band: 5
+  bass: 3
+  drum: 5
+  guitar: 5
+  keys: 5
+  pro_bass: 7
+  pro_drum: 5
+  pro_guitar: 4
+  pro_keys: 5
+  vocals: 4
+genre: Classic Rock
+name: We're an American Band
+shortname: wereanamericanband
+song_length: 210240
+vocal_parts: 2
+year_released: 1973

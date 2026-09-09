@@ -1,0 +1,19 @@
+album_name: Cosmic Thing
+artist: The B-52's
+diff:
+  band: 2
+  bass: 3
+  drum: 3
+  guitar: 4
+  keys: 2
+  pro_bass: 3
+  pro_drum: 3
+  pro_guitar: 3
+  pro_keys: 2
+  vocals: 5
+genre: Pop-Rock
+name: Love Shack
+shortname: loveshack
+song_length: 324625
+vocal_parts: 3
+year_released: 1989

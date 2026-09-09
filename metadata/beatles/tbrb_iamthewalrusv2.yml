@@ -1,0 +1,15 @@
+album_name: ('album_track_number' 6)
+artist: ('master' 1)
+diff:
+  band: 5
+  bass: 5
+  drum: 3
+  guitar: 3
+  pro_drum: 3
+  vocals: 5
+genre: Classic Rock
+name: ('artist' "The Beatles
+shortname: tbrb_iamthewalrusv2
+song_length: 258652
+vocal_parts: 2
+year_released: 1967

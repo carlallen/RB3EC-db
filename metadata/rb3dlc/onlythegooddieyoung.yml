@@ -1,0 +1,19 @@
+album_name: The Stranger
+artist: Billy Joel
+diff:
+  band: 3
+  bass: 4
+  drum: 4
+  guitar: 4
+  keys: 5
+  pro_bass: 4
+  pro_drum: 4
+  pro_guitar: 2
+  pro_keys: 5
+  vocals: 5
+genre: Classic Rock
+name: Only the Good Die Young
+shortname: onlythegooddieyoung
+song_length: 239545
+vocal_parts: 2
+year_released: 1977

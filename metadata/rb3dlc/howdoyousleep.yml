@@ -1,0 +1,19 @@
+album_name: Imagine
+artist: John Lennon
+diff:
+  band: 2
+  bass: 3
+  drum: 4
+  guitar: 4
+  keys: 6
+  pro_bass: 1
+  pro_drum: 4
+  pro_guitar: 4
+  pro_keys: 6
+  vocals: 3
+genre: Classic Rock
+name: How Do You Sleep?
+shortname: howdoyousleep
+song_length: 334700
+vocal_parts: 1
+year_released: 1971

@@ -1,0 +1,15 @@
+album_name: The Colour and the Shape
+artist: Foo Fighters
+diff:
+  band: 1
+  bass: 2
+  drum: 1
+  guitar: 4
+  pro_drum: 1
+  vocals: 3
+genre: Alternative
+name: Walking After You
+shortname: walkingafteryou
+song_length: 283636
+vocal_parts: 1
+year_released: 1997

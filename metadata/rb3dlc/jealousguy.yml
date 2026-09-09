@@ -1,0 +1,17 @@
+album_name: Imagine
+artist: John Lennon
+diff:
+  band: 1
+  bass: 2
+  drum: 1
+  guitar: 2
+  keys: 4
+  pro_drum: 1
+  pro_keys: 5
+  vocals: 3
+genre: Classic Rock
+name: Jealous Guy
+shortname: jealousguy
+song_length: 259656
+vocal_parts: 1
+year_released: 1971

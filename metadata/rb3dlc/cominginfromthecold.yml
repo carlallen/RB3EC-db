@@ -1,0 +1,17 @@
+album_name: Uprising
+artist: Bob Marley and the Wailers
+diff:
+  band: 2
+  bass: 3
+  drum: 4
+  guitar: 2
+  keys: 2
+  pro_drum: 4
+  pro_keys: 2
+  vocals: 5
+genre: Reggae/Ska
+name: Coming in from the Cold
+shortname: cominginfromthecold
+song_length: 375215
+vocal_parts: 3
+year_released: 1980

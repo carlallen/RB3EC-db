@@ -1,0 +1,15 @@
+album_name: Rust in Peace
+artist: Megadeth
+diff:
+  band: 7
+  bass: 5
+  drum: 6
+  guitar: 7
+  pro_drum: 6
+  vocals: 5
+genre: Metal
+name: Poison Was the Cure
+shortname: poisonwasthecure
+song_length: 178000
+vocal_parts: 1
+year_released: 1990
